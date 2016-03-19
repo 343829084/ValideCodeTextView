@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="codeLength" format="integer" />
+    <attr name="codeSize" format="dimension" />
+
+    <declare-styleable name="valideCode">
+        <attr name="codeLength" />
+        <attr name="codeSize" />
+    </declare-styleable>
+</resources>
